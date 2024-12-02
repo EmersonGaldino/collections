@@ -27,4 +27,4 @@ Cada pasta neste repositório representa um projeto específico. Dentro de cada 
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/minhas-collections.git
+   git clone https://github.com/EmersonGaldino/collections.git
