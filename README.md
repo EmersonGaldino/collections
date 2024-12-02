@@ -25,6 +25,6 @@ Cada pasta neste repositório representa um projeto específico. Dentro de cada 
 
 ## 🛠 Como Usar
 
-1. **Clone o repositório**
+1. **Clone o repositório dentro do Insomnia**
    ```bash
    git clone https://github.com/EmersonGaldino/collections.git
